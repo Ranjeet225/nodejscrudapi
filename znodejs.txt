@@ -1,0 +1,5 @@
+npm init -y
+npm i -g nodemon
+give permission to nodemon run my javascript file automatically
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+"start": "nodemon index"
